@@ -1,0 +1,1578 @@
+Archive member included to satisfy reference by file (symbol)
+
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              Sketch.o (__addsf3)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              Sketch.o (__floatsisf)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              Sketch.o (__mulsf3)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                              Sketch.o (_ZN14HardwareSerial9availableEv)
+C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                              Sketch.o (Serial)
+C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                              L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
+C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                              C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                              RF24.o (millis)
+C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                              RF24.o (pinMode)
+C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+                              RF24.o (_ZN8SPIClass5beginEv)
+C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+                              C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o) (yield)
+C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+                              C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+                              C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o) (malloc)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__ltsf2)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__divsf3)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__fixsfsi)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+                              (vfprintf)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                              C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o) (__divmodhi4)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              RF24.o (__udivmodsi4)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              Sketch.o (__tablejump2__)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              Sketch.o (__do_copy_data)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              Sketch.o (__do_clear_bss)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                              Sketch.o (__do_global_ctors)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (__prologue_saves__)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (__epilogue_restores__)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (__ftoa_engine)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (strnlen_P)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              RF24.o (memcpy)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (strnlen)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (fputc)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+                              RF24.o (printf_P)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+                              Sketch.o (sprintf)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o) (__ultoa_invert)
+l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+                              l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o) (__iob)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+__flp               0x2               C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+__iob               0x6               l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .group         0x00000000        0x8 RF24.o
+ .group         0x00000000        0x8 RF24.o
+ .group         0x00000000        0x8 RF24.o
+ .text          0x00000000        0x0 RF24.o
+ .data          0x00000000        0x0 RF24.o
+ .bss           0x00000000        0x0 RF24.o
+ .text._ZN4RF2413read_registerEhPhh
+                0x00000000       0x56 RF24.o
+ .text._ZN4RF2412print_statusEh
+                0x00000000       0x58 RF24.o
+ .text._ZN4RF2416print_observe_txEh
+                0x00000000       0x34 RF24.o
+ .text._ZN4RF2419print_byte_registerEPKchh
+                0x00000000       0x7c RF24.o
+ .text._ZN4RF2422print_address_registerEPKchh
+                0x00000000      0x11c RF24.o
+ .text._ZN4RF2410getChannelEv
+                0x00000000        0x6 RF24.o
+ .text._ZN4RF2414setPayloadSizeEh
+                0x00000000        0xc RF24.o
+ .text._ZN4RF2414getPayloadSizeEv
+                0x00000000        0x6 RF24.o
+ .text._ZN4RF2415isChipConnectedEv
+                0x00000000       0x14 RF24.o
+ .text._ZN4RF249powerDownEv
+                0x00000000       0x1e RF24.o
+ .text._ZN4RF249errNotifyEv
+                0x00000000        0x8 RF24.o
+ .text._ZN4RF247reUseTXEv
+                0x00000000       0x2a RF24.o
+ .text._ZN4RF2413writeBlockingEPKvhm
+                0x00000000       0xf0 RF24.o
+ .text._ZN4RF249writeFastEPKvhb
+                0x00000000       0x86 RF24.o
+ .text._ZN4RF249writeFastEPKvh
+                0x00000000        0x6 RF24.o
+ .text._ZN4RF2410startWriteEPKvhb
+                0x00000000       0x2a RF24.o
+ .text._ZN4RF2410rxFifoFullEv
+                0x00000000        0xc RF24.o
+ .text._ZN4RF249txStandByEv
+                0x00000000       0x80 RF24.o
+ .text._ZN4RF249txStandByEmb
+                0x00000000       0xec RF24.o
+ .text._ZN4RF247maskIRQEbbb
+                0x00000000       0x30 RF24.o
+ .text._ZN4RF2412whatHappenedERbS0_S0_
+                0x00000000       0x44 RF24.o
+ .text._ZN4RF2415openWritingPipeEy
+                0x00000000       0x76 RF24.o
+ .text._ZN4RF2415openReadingPipeEhy
+                0x00000000       0xe0 RF24.o
+ .text._ZN4RF2415setAddressWidthEh
+                0x00000000       0x36 RF24.o
+ .text._ZN4RF2415openReadingPipeEhPKh
+                0x00000000       0xa8 RF24.o
+ .text._ZN4RF2416closeReadingPipeEh
+                0x00000000       0x3a RF24.o
+ .text._ZN4RF2414startListeningEv
+                0x00000000       0x60 RF24.o
+ .text._ZN4RF2422disableDynamicPayloadsEv
+                0x00000000       0x22 RF24.o
+ .text._ZN4RF2416enableDynamicAckEv
+                0x00000000       0x1c RF24.o
+ .text._ZN4RF2415writeAckPayloadEhPKvh
+                0x00000000       0x56 RF24.o
+ .text._ZN4RF249availableEv
+                0x00000000        0x4 RF24.o
+ .text._ZN4RF2410setAutoAckEb
+                0x00000000       0x10 RF24.o
+ .text._ZN4RF2410setAutoAckEhb
+                0x00000000       0x4a RF24.o
+ .text._ZN4RF247testRPDEv
+                0x00000000        0xa RF24.o
+ .text._ZN4RF2411testCarrierEv
+                0x00000000        0x4 RF24.o
+ .text._ZN4RF2410setPALevelEhb
+                0x00000000       0x36 RF24.o
+ .text._ZN4RF2410getPALevelEv
+                0x00000000        0xc RF24.o
+ .text._ZN4RF246getARCEv
+                0x00000000        0xa RF24.o
+ .text._ZN4RF2411setDataRateE15rf24_datarate_e
+                0x00000000       0x6c RF24.o
+ .text._ZN4RF2411getDataRateEv
+                0x00000000       0x1c RF24.o
+ .text._ZN4RF2410isPVariantEv
+                0x00000000       0x2e RF24.o
+ .text._ZN4RF2412setCRCLengthE16rf24_crclength_e
+                0x00000000       0x20 RF24.o
+ .text._ZN4RF2412getCRCLengthEv
+                0x00000000       0x38 RF24.o
+ .text._ZN4RF2412printDetailsEv
+                0x00000000      0x188 RF24.o
+ .text._ZN4RF2410disableCRCEv
+                0x00000000        0xe RF24.o
+ .text._ZN4RF2417startConstCarrierE13rf24_pa_dbm_eh
+                0x00000000       0x56 RF24.o
+ .text._ZN4RF2416stopConstCarrierEv
+                0x00000000       0x38 RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_14
+                0x00000000        0xd RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_13
+                0x00000000       0x11 RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_12
+                0x00000000       0x13 RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_11
+                0x00000000        0xf RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_10
+                0x00000000       0x12 RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_9
+                0x00000000        0xe RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_8
+                0x00000000        0x8 RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_7
+                0x00000000        0x9 RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_6
+                0x00000000        0x7 RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_5
+                0x00000000        0xa RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_4
+                0x00000000        0x7 RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_3
+                0x00000000        0xb RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_2
+                0x00000000        0x9 RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_1
+                0x00000000        0xd RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c_0
+                0x00000000        0xd RF24.o
+ .progmem.data._ZZN4RF2412printDetailsEvE3__c
+                0x00000000       0x16 RF24.o
+ .progmem.data._ZZN4RF2422print_address_registerEPKchhE3__c_2
+                0x00000000        0x3 RF24.o
+ .progmem.data._ZZN4RF2422print_address_registerEPKchhE3__c_1
+                0x00000000        0x5 RF24.o
+ .progmem.data._ZZN4RF2422print_address_registerEPKchhE3__c_0
+                0x00000000        0x4 RF24.o
+ .progmem.data._ZZN4RF2422print_address_registerEPKchhE3__c
+                0x00000000        0x6 RF24.o
+ .progmem.data._ZZN4RF2419print_byte_registerEPKchhE3__c_1
+                0x00000000        0x3 RF24.o
+ .progmem.data._ZZN4RF2419print_byte_registerEPKchhE3__c_0
+                0x00000000        0x8 RF24.o
+ .progmem.data._ZZN4RF2419print_byte_registerEPKchhE3__c
+                0x00000000        0x6 RF24.o
+ .progmem.data._ZZN4RF2416print_observe_txEhE3__c
+                0x00000000       0x2a RF24.o
+ .progmem.data._ZZN4RF2412print_statusEhE3__c
+                0x00000000       0x46 RF24.o
+ .progmem.data._ZL18child_payload_size
+                0x00000000        0x6 RF24.o
+ .progmem.data._ZL10child_pipe
+                0x00000000        0x6 RF24.o
+ .progmem.data._ZL19rf24_pa_dbm_e_str_P
+                0x00000000        0x8 RF24.o
+ .progmem.data._ZL19rf24_pa_dbm_e_str_3
+                0x00000000        0x7 RF24.o
+ .progmem.data._ZL19rf24_pa_dbm_e_str_2
+                0x00000000        0x8 RF24.o
+ .progmem.data._ZL19rf24_pa_dbm_e_str_1
+                0x00000000        0x7 RF24.o
+ .progmem.data._ZL19rf24_pa_dbm_e_str_0
+                0x00000000        0x7 RF24.o
+ .progmem.data._ZL22rf24_crclength_e_str_P
+                0x00000000        0x6 RF24.o
+ .progmem.data._ZL22rf24_crclength_e_str_2
+                0x00000000        0x8 RF24.o
+ .progmem.data._ZL22rf24_crclength_e_str_1
+                0x00000000        0x7 RF24.o
+ .progmem.data._ZL22rf24_crclength_e_str_0
+                0x00000000        0x9 RF24.o
+ .progmem.data._ZL18rf24_model_e_str_P
+                0x00000000        0x4 RF24.o
+ .progmem.data._ZL18rf24_model_e_str_1
+                0x00000000        0xa RF24.o
+ .progmem.data._ZL18rf24_model_e_str_0
+                0x00000000        0x9 RF24.o
+ .progmem.data._ZL21rf24_datarate_e_str_P
+                0x00000000        0x6 RF24.o
+ .progmem.data._ZL21rf24_datarate_e_str_2
+                0x00000000        0x8 RF24.o
+ .progmem.data._ZL21rf24_datarate_e_str_1
+                0x00000000        0x6 RF24.o
+ .progmem.data._ZL21rf24_datarate_e_str_0
+                0x00000000        0x6 RF24.o
+ .text          0x00000000        0x0 Sketch.o
+ .data          0x00000000        0x0 Sketch.o
+ .bss           0x00000000        0x0 Sketch.o
+ .bss.prev_msg  0x00000000        0x1 Sketch.o
+ .bss.incomingByte
+                0x00000000        0x2 Sketch.o
+ .data.text     0x00000000      0x1f4 Sketch.o
+ .bss.register_value
+                0x00000000        0x1 Sketch.o
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .group         0x00000000        0x8 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x38 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x46 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0x8 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.digitalRead
+                0x00000000       0x52 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .progmem.data.port_to_input_PGM
+                0x00000000        0xa C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+ .data          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+ .bss           0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+ .text._ZN8SPIClass3endEv
+                0x00000000        0x8 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+ .bss.SPI       0x00000000        0x1 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+ .text          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .data          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .bss           0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .text._Znwj    0x00000000        0x4 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .text._Znaj    0x00000000        0x4 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .text._ZdlPv   0x00000000        0x4 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .text._ZdaPv   0x00000000        0x4 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .text.__cxa_guard_acquire
+                0x00000000       0x12 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .text.__cxa_guard_release
+                0x00000000        0x8 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .text.__cxa_guard_abort
+                0x00000000        0x2 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x2 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_info    0x00000000      0x1c4 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_abbrev  0x00000000      0x146 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_loc     0x00000000       0x74 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_aranges
+                0x00000000       0x48 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_ranges  0x00000000       0x38 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_line    0x00000000      0x164 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_str     0x00000000      0x22e C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .comment       0x00000000       0x31 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .debug_frame   0x00000000       0x94 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(new.o)
+ .text          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .data          0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .bss           0x00000000        0x0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .text.avr-libc
+                0x00000000      0x242 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .data.__malloc_heap_end
+                0x00000000        0x2 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .data.__malloc_heap_start
+                0x00000000        0x2 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .data.__malloc_margin
+                0x00000000        0x2 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .debug_info    0x00000000      0x243 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .debug_abbrev  0x00000000       0xfd C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .debug_loc     0x00000000      0x4d3 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .debug_aranges
+                0x00000000       0x28 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .debug_ranges  0x00000000       0x18 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .debug_line    0x00000000      0x2c9 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .debug_str     0x00000000      0x252 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .comment       0x00000000       0x31 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .debug_frame   0x00000000       0x54 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ COMMON         0x00000000        0x4 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(malloc.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text.avr-libc
+                0x00000000       0x12 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .text.avr-libc
+                0x00000000       0x4c l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .comment       0x00000000       0x31 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .data          0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .bss           0x00000000        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .comment       0x00000000       0x31 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ COMMON         0x00000000        0x6 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD RF24.o
+LOAD Sketch.o
+START GROUP
+LOAD l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a
+END GROUP
+LOAD l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a
+LOAD l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                0x00800060                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2b32
+ *(.vectors)
+ .vectors       0x00000000       0x68 L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table._Z12send_commandv
+                0x00000068       0x5e Sketch.o
+                0x000000c6                . = ALIGN (0x2)
+                0x000000c6                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000c6        0x0 linker stubs
+ *(.trampolines*)
+                0x000000c6                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ .progmem.data  0x000000c6        0x8 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+ *libc.a:*(.progmem.data)
+ .progmem.data  0x000000ce       0xfa l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ *(.progmem*)
+ .progmem.data._ZL17child_pipe_enable
+                0x000001c8        0x6 RF24.o
+ .progmem.data.digital_pin_to_timer_PGM
+                0x000001ce       0x14 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000001ce                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x000001e2       0x14 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000001e2                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x000001f6       0x14 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000001f6                digital_pin_to_port_PGM
+ .progmem.data.port_to_output_PGM
+                0x0000020a        0xa C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000020a                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x00000214        0xa C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000214                port_to_mode_PGM
+                0x0000021e                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000021e                __ctors_start = .
+ *(.ctors)
+ .ctors         0x0000021e        0x2 Sketch.o
+ .ctors         0x00000220        0x2 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000222                __ctors_end = .
+                0x00000222                __dtors_start = .
+ *(.dtors)
+                0x00000222                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000222        0x0 L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000222                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000222        0xc L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000022e       0x16 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x0000022e                __do_copy_data
+ .init4         0x00000244       0x10 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000244                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000254       0x16 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x00000254                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000026a        0x8 L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000272        0x4 L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000272                __vector_22
+                0x00000272                __vector_1
+                0x00000272                __vector_24
+                0x00000272                __vector_12
+                0x00000272                __bad_interrupt
+                0x00000272                __vector_6
+                0x00000272                __vector_3
+                0x00000272                __vector_23
+                0x00000272                __vector_25
+                0x00000272                __vector_11
+                0x00000272                __vector_13
+                0x00000272                __vector_17
+                0x00000272                __vector_7
+                0x00000272                __vector_5
+                0x00000272                __vector_4
+                0x00000272                __vector_9
+                0x00000272                __vector_2
+                0x00000272                __vector_21
+                0x00000272                __vector_15
+                0x00000272                __vector_8
+                0x00000272                __vector_14
+                0x00000272                __vector_10
+                0x00000272                __vector_20
+                0x00000276                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN8SPIClass8transferEh
+                0x00000276        0xc RF24.o
+                0x00000276                _ZN8SPIClass8transferEh
+ .text._ZN4RF243csnEb
+                0x00000282       0x32 RF24.o
+                0x00000282                _ZN4RF243csnEb
+ .text._ZN4RF242ceEb
+                0x000002b4       0x18 RF24.o
+                0x000002b4                _ZN4RF242ceEb
+ .text._ZN4RF2416beginTransactionEv
+                0x000002cc        0x6 RF24.o
+                0x000002cc                _ZN4RF2416beginTransactionEv
+ .text._ZN4RF2414endTransactionEv
+                0x000002d2        0x6 RF24.o
+                0x000002d2                _ZN4RF2414endTransactionEv
+ .text._ZN4RF2413read_registerEh
+                0x000002d8       0x2e RF24.o
+                0x000002d8                _ZN4RF2413read_registerEh
+ .text._ZN4RF2414write_registerEhPKhh
+                0x00000306       0x56 RF24.o
+                0x00000306                _ZN4RF2414write_registerEhPKhh
+ .text._ZN4RF2414write_registerEhh
+                0x0000035c       0x36 RF24.o
+                0x0000035c                _ZN4RF2414write_registerEhh
+ .text._ZN4RF2413write_payloadEPKvhh
+                0x00000392       0x82 RF24.o
+                0x00000392                _ZN4RF2413write_payloadEPKvhh
+ .text._ZN4RF2412read_payloadEPvh
+                0x00000414       0x82 RF24.o
+                0x00000414                _ZN4RF2412read_payloadEPvh
+ .text._ZN4RF248spiTransEh
+                0x00000496       0x26 RF24.o
+                0x00000496                _ZN4RF248spiTransEh
+ .text._ZN4RF248flush_rxEv
+                0x000004bc        0x6 RF24.o
+                0x000004bc                _ZN4RF248flush_rxEv
+ .text._ZN4RF248flush_txEv
+                0x000004c2        0x6 RF24.o
+                0x000004c2                _ZN4RF248flush_txEv
+ .text._ZN4RF2410get_statusEv
+                0x000004c8        0x6 RF24.o
+                0x000004c8                _ZN4RF2410get_statusEv
+ .text._ZN4RF24C2Ejjm
+                0x000004ce       0x52 RF24.o
+                0x000004ce                _ZN4RF24C2Ejjm
+                0x000004ce                _ZN4RF24C1Ejjm
+ .text._ZN4RF2410setChannelEh
+                0x00000520       0x10 RF24.o
+                0x00000520                _ZN4RF2410setChannelEh
+ .text._ZN4RF2413stopListeningEv
+                0x00000530       0x64 RF24.o
+                0x00000530                _ZN4RF2413stopListeningEv
+ .text._ZN4RF247powerUpEv
+                0x00000594       0x20 RF24.o
+                0x00000594                _ZN4RF247powerUpEv
+ .text._ZN4RF2414startFastWriteEPKvhbb
+                0x000005b4       0x32 RF24.o
+                0x000005b4                _ZN4RF2414startFastWriteEPKvhbb
+ .text._ZN4RF245writeEPKvhb
+                0x000005e6       0x88 RF24.o
+                0x000005e6                _ZN4RF245writeEPKvhb
+ .text._ZN4RF245writeEPKvh
+                0x0000066e        0x6 RF24.o
+                0x0000066e                _ZN4RF245writeEPKvh
+ .text._ZN4RF2421getDynamicPayloadSizeEv
+                0x00000674       0x44 RF24.o
+                0x00000674                _ZN4RF2421getDynamicPayloadSizeEv
+ .text._ZN4RF249availableEPh
+                0x000006b8       0x2a RF24.o
+                0x000006b8                _ZN4RF249availableEPh
+ .text._ZN4RF244readEPvh
+                0x000006e2       0x18 RF24.o
+                0x000006e2                _ZN4RF244readEPvh
+ .text._ZN4RF2415openWritingPipeEPKh
+                0x000006fa       0x34 RF24.o
+                0x000006fa                _ZN4RF2415openWritingPipeEPKh
+ .text._ZN4RF2415toggle_featuresEv
+                0x0000072e       0x20 RF24.o
+                0x0000072e                _ZN4RF2415toggle_featuresEv
+ .text._ZN4RF245beginEv
+                0x0000074e       0xb2 RF24.o
+                0x0000074e                _ZN4RF245beginEv
+ .text._ZN4RF2421enableDynamicPayloadsEv
+                0x00000800       0x36 RF24.o
+                0x00000800                _ZN4RF2421enableDynamicPayloadsEv
+ .text._ZN4RF2416enableAckPayloadEv
+                0x00000836       0x38 RF24.o
+                0x00000836                _ZN4RF2416enableAckPayloadEv
+ .text._ZN4RF2421isAckPayloadAvailableEv
+                0x0000086e        0x8 RF24.o
+                0x0000086e                _ZN4RF2421isAckPayloadAvailableEv
+ .text._ZN4RF2410setRetriesEhh
+                0x00000876       0x12 RF24.o
+                0x00000876                _ZN4RF2410setRetriesEhh
+ .text._Z14radio_ack_datav
+                0x00000888      0x4de Sketch.o
+                0x00000888                _Z14radio_ack_datav
+ .text.setup    0x00000d66       0x56 Sketch.o
+                0x00000d66                setup
+ .text._Z18send_motor_commandi
+                0x00000dbc       0x4e Sketch.o
+                0x00000dbc                _Z18send_motor_commandi
+ .text._Z7getdatav
+                0x00000e0a       0x76 Sketch.o
+                0x00000e0a                _Z7getdatav
+ .text._Z12send_commandv
+                0x00000e80       0xb0 Sketch.o
+                0x00000e80                _Z12send_commandv
+ .text.startup._GLOBAL__sub_I_radio
+                0x00000f30       0x22 Sketch.o
+ .text.loop     0x00000f52       0x86 Sketch.o
+                0x00000f52                loop
+ .text.avr-libc.fplib
+                0x00000fd8        0xe l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x00000fd8                __subsf3
+                0x00000fda                __addsf3
+ .text.avr-libc.fplib
+                0x00000fe6       0xcc l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x00001008                __addsf3x
+ .text.avr-libc.fplib
+                0x000010b2       0x7a l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x000010b2                __floatunsisf
+                0x000010b6                __floatsisf
+ .text.avr-libc.fplib
+                0x0000112c        0xc l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x0000112c                __fp_inf
+ .text.avr-libc.fplib
+                0x00001138        0x6 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00001138                __fp_nan
+ .text.avr-libc.fplib
+                0x0000113e        0xe l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x0000113e                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000114c        0xe l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x0000114c                __fp_pscB
+ .text.avr-libc.fplib
+                0x0000115a       0x22 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x0000115a                __fp_round
+ .text.avr-libc.fplib
+                0x0000117c       0x44 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x0000117c                __fp_split3
+                0x0000118c                __fp_splitA
+ .text.avr-libc.fplib
+                0x000011c0        0xe l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000011c0                __fp_zero
+                0x000011c2                __fp_szero
+ .text.avr-libc.fplib
+                0x000011ce        0x8 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000011ce                __mulsf3
+ .text.avr-libc.fplib
+                0x000011d6       0xd2 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x000011f4                __mulsf3x
+                0x000011fa                __mulsf3_pse
+ .text._ZN14HardwareSerial9availableEv
+                0x000012a8       0x1c C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000012a8                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x000012c4       0x1c C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000012c4                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x000012e0       0x28 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000012e0                _ZN14HardwareSerial4readEv
+ .text._Z14serialEventRunv
+                0x00001308       0x1c C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00001308                _Z14serialEventRunv
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x00001324       0x42 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00001324                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+ .text._ZN14HardwareSerial5writeEh
+                0x00001366       0x90 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00001366                _ZN14HardwareSerial5writeEh
+ .text._ZN14HardwareSerial5flushEv
+                0x000013f6       0x44 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000013f6                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5beginEmh
+                0x0000143a       0xca C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000143a                _ZN14HardwareSerial5beginEmh
+ .text.__vector_18
+                0x00001504       0x64 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00001504                __vector_18
+ .text.__vector_19
+                0x00001568       0x4c C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00001568                __vector_19
+ .text._Z17Serial0_availablev
+                0x000015b4       0x14 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000015b4                _Z17Serial0_availablev
+ .text.startup._GLOBAL__sub_I___vector_18
+                0x000015c8       0x5a C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text.startup.main
+                0x00001622       0x1a C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                0x00001622                main
+ .text._ZN5Print5writeEPKhj
+                0x0000163c       0x50 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x0000163c                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x0000168c       0x2a C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x0000168c                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPKc
+                0x000016b6        0x4 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000016b6                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x000016ba        0xe C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000016ba                _ZN5Print5printEc
+ .text._ZN5Print7printlnEv
+                0x000016c8       0x28 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000016c8                _ZN5Print7printlnEv
+ .text._ZN5Print7printlnEPKc
+                0x000016f0       0x24 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000016f0                _ZN5Print7printlnEPKc
+ .text._ZN5Print11printNumberEmh
+                0x00001714       0xac C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00001714                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEmi
+                0x000017c0       0x1a C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000017c0                _ZN5Print5printEmi
+ .text._ZN5Print5printEhi
+                0x000017da        0xe C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000017da                _ZN5Print5printEhi
+ .text._ZN5Print7printlnEhi
+                0x000017e8       0x24 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000017e8                _ZN5Print7printlnEhi
+ .text._ZN5Print5printEji
+                0x0000180c        0xc C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x0000180c                _ZN5Print5printEji
+ .text._ZN5Print7printlnEji
+                0x00001818       0x24 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00001818                _ZN5Print7printlnEji
+ .text._ZN5Print5printEli
+                0x0000183c       0x90 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x0000183c                _ZN5Print5printEli
+ .text._ZN5Print5printEii
+                0x000018cc        0xe C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000018cc                _ZN5Print5printEii
+ .text._ZN5Print7printlnEii
+                0x000018da       0x24 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000018da                _ZN5Print7printlnEii
+ .text._ZN5Print10printFloatEdh
+                0x000018fe      0x1ba C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000018fe                _ZN5Print10printFloatEdh
+ .text._ZN5Print5printEdi
+                0x00001ab8        0x4 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00001ab8                _ZN5Print5printEdi
+ .text.__vector_16
+                0x00001abc       0x94 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00001abc                __vector_16
+ .text.millis   0x00001b50       0x18 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00001b50                millis
+ .text.micros   0x00001b68       0x4a C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00001b68                micros
+ .text.delay    0x00001bb2       0x50 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00001bb2                delay
+ .text.delayMicroseconds
+                0x00001c02       0x14 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00001c02                delayMicroseconds
+ .text.init     0x00001c16       0x76 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x00001c16                init
+ .text.turnOffPWM
+                0x00001c8c       0x52 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x00001cde       0x78 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001cde                pinMode
+ .text.digitalWrite
+                0x00001d56       0x5e C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001d56                digitalWrite
+ .text._ZN8SPIClass5beginEv
+                0x00001db4       0x2c C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+                0x00001db4                _ZN8SPIClass5beginEv
+ .text._ZN8SPIClass11setBitOrderEh
+                0x00001de0       0x12 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+                0x00001de0                _ZN8SPIClass11setBitOrderEh
+ .text._ZN8SPIClass11setDataModeEh
+                0x00001df2        0xa C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+                0x00001df2                _ZN8SPIClass11setDataModeEh
+ .text._ZN8SPIClass15setClockDividerEh
+                0x00001dfc       0x1e C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+                0x00001dfc                _ZN8SPIClass15setClockDividerEh
+ .text.__empty  0x00001e1a        0x2 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+                0x00001e1a                yield
+ .text.avr-libc.fplib
+                0x00001e1c        0xa l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x00001e1c                __nesf2
+                0x00001e1c                __eqsf2
+                0x00001e1c                __cmpsf2
+                0x00001e1c                __ltsf2
+                0x00001e1c                __lesf2
+ .text.avr-libc.fplib
+                0x00001e26        0x8 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00001e26                __divsf3
+ .text.avr-libc.fplib
+                0x00001e2e       0xdc l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x00001e4e                __divsf3x
+                0x00001e54                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00001f0a        0xe l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                0x00001f0a                __fixsfsi
+ .text.avr-libc.fplib
+                0x00001f18       0x5e l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00001f18                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00001f76       0x48 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00001f76                __fp_cmp
+ .text.avr-libc.fplib
+                0x00001fbe        0xa l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x00001fbe                __gesf2
+                0x00001fbe                __gtsf2
+ .text.avr-libc.fplib
+                0x00001fc8        0xa l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                0x00001fc8                __unordsf2
+ .text.avr-libc
+                0x00001fd2      0x6fa l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+                0x00001fd2                vfprintf
+ .text.libgcc.div
+                0x000026cc       0x28 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x000026cc                _div
+                0x000026cc                __divmodhi4
+ .text.libgcc.div
+                0x000026f4       0x44 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x000026f4                __udivmodsi4
+ .text.libgcc   0x00002738        0xc l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00002738                __tablejump2__
+ .text.libgcc.prologue
+                0x00002744       0x38 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                0x00002744                __prologue_saves__
+ .text.libgcc.prologue
+                0x0000277c       0x36 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                0x0000277c                __epilogue_restores__
+ .text.libgcc.div
+                0x000027b2       0x28 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x000027b2                __udivmodhi4
+ .text.avr-libc
+                0x000027da      0x1b0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                0x000027da                __ftoa_engine
+ .text.avr-libc
+                0x0000298a       0x16 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x0000298a                strnlen_P
+ .text.avr-libc
+                0x000029a0       0x16 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x000029a0                strnlen
+ .text.avr-libc
+                0x000029b6       0x78 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x000029b6                fputc
+ .text.avr-libc
+                0x00002a2e       0x44 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+                0x00002a2e                sprintf
+ .text.avr-libc
+                0x00002a72       0xbc l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x00002a72                __ultoa_invert
+                0x00002b2e                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002b2e        0x0 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00002b2e                _exit
+                0x00002b2e                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002b2e        0x4 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002b32                _etext = .
+
+.data           0x00800100      0x4d4 load address 0x00002b32
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800100       0xf2 Sketch.o
+                                 0xf4 (size before relaxing)
+ .rodata._ZL11init_string
+                0x008001f2      0x3bf Sketch.o
+ .rodata._ZL7address
+                0x008005b1        0x5 Sketch.o
+ .rodata._ZTV14HardwareSerial
+                0x008005b6       0x10 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x008005b6                _ZTV14HardwareSerial
+ .rodata.str1.1
+                0x008005c6        0xe C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ *(.gnu.linkonce.r*)
+                0x008005d4                . = ALIGN (0x2)
+                0x008005d4                _edata = .
+                0x008005d4                PROVIDE (__data_end, .)
+
+.bss            0x008005d4      0x29f
+                0x008005d4                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.cmd_index
+                0x008005d4        0x2 Sketch.o
+                0x008005d4                cmd_index
+ .bss.cmd       0x008005d6       0xc8 Sketch.o
+                0x008005d6                cmd
+ .bss.string    0x0080069e       0xc8 Sketch.o
+                0x0080069e                string
+ .bss.realAccel
+                0x00800766        0xc Sketch.o
+                0x00800766                realAccel
+ .bss.realGyro  0x00800772        0xc Sketch.o
+                0x00800772                realGyro
+ .bss.Mag       0x0080077e        0x6 Sketch.o
+                0x0080077e                Mag
+ .bss.Gyro      0x00800784        0x6 Sketch.o
+                0x00800784                Gyro
+ .bss.Accel     0x0080078a        0x6 Sketch.o
+                0x0080078a                Accel
+ .bss.i         0x00800790        0x1 Sketch.o
+                0x00800790                i
+ .bss.payload_ack_buffer
+                0x00800791       0x20 Sketch.o
+                0x00800791                payload_ack_buffer
+ .bss.payload_size
+                0x008007b1        0x1 Sketch.o
+                0x008007b1                payload_size
+ .bss.radio     0x008007b2       0x1b Sketch.o
+                0x008007b2                radio
+ .bss.Serial    0x008007cd       0x9d C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x008007cd                Serial
+ .bss.timer0_fract
+                0x0080086a        0x1 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x0080086b        0x4 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x0080086b                timer0_millis
+ .bss.timer0_overflow_count
+                0x0080086f        0x4 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x0080086f                timer0_overflow_count
+ *(COMMON)
+                0x00800873                PROVIDE (__bss_end, .)
+                0x00002b32                __data_load_start = LOADADDR (.data)
+                0x00003006                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800873        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800873                _end = .
+                0x00800873                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 RF24.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 Sketch.o
+ .comment       0x00000030       0x31 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000030       0x31 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .comment       0x00000030       0x31 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+ .comment       0x00000030       0x31 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .comment       0x00000030       0x2c l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libprintf_flt.a(vfprintf_flt.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000005c       0x31 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .comment       0x0000005c       0x31 l:/microchip/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(sprintf.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x550
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000      0x278 RF24.o
+ .debug_aranges
+                0x00000278       0x50 Sketch.o
+ .debug_aranges
+                0x000002c8       0x60 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_aranges
+                0x00000328       0x38 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_aranges
+                0x00000360       0x20 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x00000380       0xf0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x00000470       0x48 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x000004b8       0x38 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_aranges
+                0x000004f0       0x40 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+ .debug_aranges
+                0x00000530       0x20 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xc4d2
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4     0x43c2 RF24.o
+ .debug_info    0x000049b6     0x172f Sketch.o
+ .debug_info    0x000060e5     0x1a27 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x00007b0c     0x16b5 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x000091c1      0x1a8 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x00009369     0x2578 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x0000b8e1      0x2b9 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x0000bb9a      0x5f7 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x0000c191      0x303 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+ .debug_info    0x0000c494       0x3e C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+
+.debug_abbrev   0x00000000     0x1e05
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x4aa RF24.o
+ .debug_abbrev  0x00000a4c      0x3f9 Sketch.o
+ .debug_abbrev  0x00000e45      0x3ab C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x000011f0      0x333 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x00001523       0xad C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x000015d0      0x413 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x000019e3      0x146 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x00001b29      0x15b C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x00001c84      0x157 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+ .debug_abbrev  0x00001ddb       0x2a C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+
+.debug_line     0x00000000     0x2a76
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x133 L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000133     0x11c5 RF24.o
+ .debug_line    0x000012f8      0x424 Sketch.o
+ .debug_line    0x0000171c      0x3b7 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x00001ad3      0x228 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x00001cfb      0x116 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x00001e11      0x5e0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x000023f1      0x278 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x00002669      0x23b C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x000028a4      0x191 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+ .debug_line    0x00002a35       0x41 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+
+.debug_frame    0x00000000     0x12e8
+ *(.debug_frame)
+ .debug_frame   0x00000000      0xa94 RF24.o
+ .debug_frame   0x00000a94      0x110 Sketch.o
+ .debug_frame   0x00000ba4       0xf4 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x00000c98       0xc0 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x00000d58       0x24 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x00000d7c      0x3ac C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x00001128       0xbc C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x000011e4       0x7c C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x00001260       0x64 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+ .debug_frame   0x000012c4       0x24 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+
+.debug_str      0x00000000     0x2c7b
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 L:/Microchip/7.0/Packs/atmel/ATmega_DFP/1.3.300/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208     0x123c RF24.o
+                               0x1351 (size before relaxing)
+ .debug_str     0x00001444      0x28b Sketch.o
+                               0x11df (size before relaxing)
+ .debug_str     0x000016cf      0xfe5 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                               0x128d (size before relaxing)
+ .debug_str     0x000026b4       0x55 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                               0x10bf (size before relaxing)
+ .debug_str     0x00002709       0x1a C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+                                0x236 (size before relaxing)
+ .debug_str     0x00002723      0x32b C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                                0xf74 (size before relaxing)
+ .debug_str     0x00002a4e      0x12a C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                                0x240 (size before relaxing)
+ .debug_str     0x00002b78       0xbc C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x2ae (size before relaxing)
+ .debug_str     0x00002c34       0x2b C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+                                0x36b (size before relaxing)
+ .debug_str     0x00002c5f       0x1c C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+                                0x144 (size before relaxing)
+
+.debug_loc      0x00000000     0x6b5b
+ *(.debug_loc)
+ .debug_loc     0x00000000     0x3d9d RF24.o
+ .debug_loc     0x00003d9d      0x27b Sketch.o
+ .debug_loc     0x00004018      0x41d C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x00004435      0x18a C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x000045bf     0x1cdb C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x0000629a      0x249 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x000064e3      0x5fc C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x00006adf       0x7c C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x528
+ *(.debug_ranges)
+ .debug_ranges  0x00000000      0x298 RF24.o
+ .debug_ranges  0x00000298       0x58 Sketch.o
+ .debug_ranges  0x000002f0       0x50 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x00000340       0x28 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x00000368       0x10 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x00000378      0x110 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x00000488       0x38 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x000004c0       0x28 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x000004e8       0x30 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(SPI.o)
+ .debug_ranges  0x00000518       0x10 C:\Users\ANTSAN~1\DOCUME~1\ATMELS~1\7.0\ARB253~1\ARDUIN~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Nrf24lo1+.elf elf32-avr)
+LOAD linker stubs
